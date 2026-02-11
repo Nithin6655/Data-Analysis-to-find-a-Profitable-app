@@ -3,10 +3,10 @@
 # Context
 Our company builds apps which are published in Google Playstore and Apple Appstores. The revenue is generated from in-app adds. We need to help figure out what type of app should the company build.
 
-#Objective
+# Objective
 Our aim in the project is to find out mobile app profiles that are profitable in app store and google play markets. We are working as data analyst for a company that builds mobile applications. And our goal is to help the developers with a data driven decision with respect to kind of app they build.
 
-#Tools Used
+# Tools Used
 Python
 
 Python Lists & Dictionary
